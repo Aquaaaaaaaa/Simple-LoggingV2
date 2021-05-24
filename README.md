@@ -1,3 +1,6 @@
 # Simple-LoggingV2
-# We're Getting There...🚀
- Not done Yet!⚠️
+# Released!...🚀
+ More logs soon!...🚀
+npm i discord.js !⚠️
+Make sure to Set your Token in the CFG!⚠️
+Set Your Log Channel ID's in the Config!⚠️
